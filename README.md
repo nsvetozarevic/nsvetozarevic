@@ -4,14 +4,14 @@ Software engineer with 9+ years of experience, primarily PHP/Laravel, with front
 
 ## Stack
 
-**Backend (Primary)** — PHP, Laravel, REST APIs, OAuth2, Queues (Horizon), Domain-driven design, PHPUnit, Pest 
+**Backend (Primary)** — PHP, Laravel, REST APIs, OAuth2, Queues (Horizon), Domain-driven design, PHPUnit, Pest    
 **Frontend (Secondary)** — Vue 3, TypeScript, Inertia.js, Tailwind CSS  
-**Database** — MySQL, PostgreSQL
+**Database** — MySQL, PostgreSQL   
 **Infra** — Docker, Laravel Forge, Envoyer, GitHub Actions
 
 ## Work
 
-Most of my work is in private repos — health platforms, questionnaire engines, enterprise tooling. 
+Most of my work is in private repos — health platforms, questionnaire engines, enterprise tooling.  
 Below is a public example of how I approach a greenfield project.
 
 ## Projects
