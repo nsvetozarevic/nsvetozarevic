@@ -5,7 +5,7 @@ Senior Laravel backend developer. Most of my production work is health and resea
 ## Stack
 
 **Backend (Primary)** - PHP, Laravel, REST APIs, OAuth2, Queues (Horizon), Domain-driven design, PHPUnit, Pest  
-**Frontend (Secondary)** - Vue 3, Inertia.js, TypeScript, Livewire, Tailwind CSS  
+**Frontend (Secondary)** - Vue 3, Inertia.js, TypeScript, Livewire, Alpine, Tailwind CSS  
 **Database** - MySQL, PostgreSQL  
 **Infra** - Docker, Laravel Forge, Envoyer, Laravel Cloud, GitHub Actions
 
