@@ -11,7 +11,7 @@ Senior Laravel backend developer. Most of my production work is health and resea
 
 ## Work
 
-I ship Laravel for health and research teams - that code stays with the client. Public repos here are samples of the same craft.
+Most of my work is private - that code stays with the client. Public repos here are samples of the same craft.
 
 ## Projects
 
