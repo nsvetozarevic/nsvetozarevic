@@ -16,6 +16,7 @@ Most of my work is private - that code stays with the client. Public repos here 
 ## Projects
 
 - **[Hookline](https://github.com/nsvetozarevic/hookline)** - Durable webhook relay: verify, store, and forward with retries, dead-lettering, and replay. Laravel 13, Livewire, PostgreSQL, Redis, Docker.
+- **[AI Support Inbox](https://github.com/nsvetozarevic/ai-support-inbox)** - Support inbox that drafts grounded replies from a handbook: hybrid search, reranking, quote checks, and a circuit breaker for AI provider failures. Laravel 13, Laravel AI SDK, PostgreSQL with pgvector, Redis, Docker.
 - **[IPS QR Generator](https://github.com/nsvetozarevic/ips-qr-code-generator)** - Generates IPS QR codes from Serbian payment slip PDFs. Laravel 13, Vue 3, Inertia.js.
 
 ## Open Source
